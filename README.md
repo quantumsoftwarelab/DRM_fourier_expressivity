@@ -3,7 +3,7 @@ This code reproduces the figures in [Constrained and Vanishing Expressivity of Q
 ## Installation
 1. Clone the Repository
 ```
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/quantumsoftwarelab/DRM_fourier_expressivity.git)
+git clone https://github.com/quantumsoftwarelab/DRM_fourier_expressivity.git
 cd DRM_fourier_expressivity
 ```
 2. Set Up a Virtual Environment
