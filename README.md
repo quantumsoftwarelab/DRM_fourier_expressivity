@@ -38,7 +38,7 @@ python -m ipykernel install --user --name=quantum-model-kernel --display-name "Q
 ```
 
 ## Tutorial
-An example on how to run the functions is available in the [`main.ipynb`](/main.ipynb) notebook. Make sure to use the correct kernel.
+An example on how to run the functions is available in the [`main.ipynb`](/main.ipynb) notebook. Make sure to use the correct kernel. If you are using VSCode, you would probably have to refresh the Jupyter Kernels list.
 
 ## Contact
 For questions and suggestions, please contact Mario Herrero González: `mherrer3@ed.ac.uk`
