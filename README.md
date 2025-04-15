@@ -31,10 +31,14 @@ After installation, you can verify that the packages have been installed correct
 ```
 pip list
 ```
-
+5. Kernel for Jupyter
+Install the kernel for the notebooks
+```
+python -m ipykernel install --user --name=quantum-model-kernel --display-name "Quantum Fourier Model Kernel"
+```
 
 ## Tutorial
-An example on how to run the functions is available in the [`main.ipynb`](/main.ipynb) notebook.
+An example on how to run the functions is available in the [`main.ipynb`](/main.ipynb) notebook. Make sure to use the correct kernel.
 
 ## Contact
 For questions and suggestions, please contact Mario Herrero González: `mherrer3@ed.ac.uk`
