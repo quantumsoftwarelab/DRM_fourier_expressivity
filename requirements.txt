@@ -42,8 +42,8 @@ packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 partd==1.4.2
-PennyLane==0.40.0
-PennyLane_Lightning==0.40.0
+PennyLane==0.35.1
+PennyLane_Lightning==0.35.1
 pexpect==4.9.0
 pillow==11.1.0
 platformdirs==4.3.7
