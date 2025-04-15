@@ -15,7 +15,6 @@ from tqdm import tqdm
 from ansatze import (
     BackwardsLightCone,
     LocalTwoDesign,
-    OnlyRotationLayers,
     SimplifiedTwoDesign,
     StronglyEntanglingLayers,
 )
@@ -66,7 +65,6 @@ class ReuploadingModel:
             "BasicEntangling": qml.BasicEntanglerLayers,
             "SimplifiedTwoDesign": SimplifiedTwoDesign,
             "StronglyEntangling": StronglyEntanglingLayers,
-            "OnlyRotations": OnlyRotationLayers,
             "LocalTwoDesign": LocalTwoDesign,
             "BackwardsLightCone": BackwardsLightCone,
         }
